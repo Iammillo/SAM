@@ -2,7 +2,7 @@
   "name": "experiment_2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iammillo.github.io/SAMForNepal",
+  "homepage": "https://iammillo.github.io/SAM",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
