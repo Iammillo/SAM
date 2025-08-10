@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SAMForNepal/static/css/main.8babc4ce.css",
+    "main.js": "/SAMForNepal/static/js/main.beb415d7.js",
+    "static/js/453.a969dce9.chunk.js": "/SAMForNepal/static/js/453.a969dce9.chunk.js",
+    "index.html": "/SAMForNepal/index.html",
+    "main.8babc4ce.css.map": "/SAMForNepal/static/css/main.8babc4ce.css.map",
+    "main.beb415d7.js.map": "/SAMForNepal/static/js/main.beb415d7.js.map",
+    "453.a969dce9.chunk.js.map": "/SAMForNepal/static/js/453.a969dce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8babc4ce.css",
+    "static/js/main.beb415d7.js"
+  ]
+}
